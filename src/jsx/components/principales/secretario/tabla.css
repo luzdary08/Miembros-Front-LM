@@ -1,0 +1,52 @@
+.content__table{
+    width: 100%;
+    overflow-x: auto;
+}
+
+.table-row td{
+    cursor: pointer;
+    transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+.table-row:hover td{
+    background-color: #b3d8cc;
+    color: #0b4a35;
+}
+
+.custom-table tbody tr:hover {
+    background-color: #b3d8cc;
+    color: #0b4a35;
+}
+
+.filters{
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.filter-item{
+    width: 100%;
+}
+
+.filter-item > label.filter-label{
+    font-size: 1px;
+    display: inline-block;
+    margin-bottom: .25rem;
+    color: rgb(29, 126, 107) !important;
+}
+
+.filter-item input, .filter-item select{
+    display: block;
+    width: 100%;
+    font-size: 12px;
+    font-family: inherit;
+    height: 44px;
+    padding: .5rem;
+    border: 1px solid rgb(163, 163, 163) ;
+    border-radius: 10px;
+}
+
+
+    
+
+

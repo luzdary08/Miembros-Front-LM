@@ -1,0 +1,176 @@
+.nav-link.active{
+    background-color: #9EC8B9 !important;
+    color: #1B4242 !important;
+    
+}
+
+.nav-tabs {
+    --bs-nav-tabs-border-color: #27374D !important;
+    --bs-nav-tabs-link-active-border-color: #27374D #27374D #fff0 !important;
+}
+
+.sector{
+    display: flex !important;
+    flex-direction: column !important;
+    background-color: #cee0dd !important;
+    border: 2rem solid #cee0dd !important;
+    border-radius: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+
+label {
+    color: #183D3D!important;
+    font-size: 0.8rem !important; 
+}
+
+.form-control { 
+    height: 2rem !important;
+    font-size: 0.7rem !important;
+    color: #526D82 !important;
+}
+
+input.form-control {
+    position: relative;
+    color: #526D82 !important;
+    display: flex !important; /* Usar Flexbox para alinear */
+    align-items: center !important; 
+}
+
+::placeholder {
+    color: #526D82 !important;
+}
+
+.btn-light {
+    height: 2rem !important;
+    background: #ffffff !important;
+    border-color: #ffffff!important;;
+    color: #526D82 !important;
+    font-weight: normal!important;
+    font-size: 0.7rem !important;
+    line-height:2rem center !important;
+    padding:0.675rem 1rem !important;
+}
+
+.btn-light:hover {
+    background: #3c9a84 !important;
+    color: #ffffff!important;
+    border-color: #3c9a84 !important;
+}
+
+.card-title{
+    color: #1B4242 !important;
+}
+
+.message{
+    font-size: .775rem !important;
+}
+
+.button:not(:disabled), [type="button"]:not(:disabled) span{
+    margin-top: -2.5px !important;
+}
+
+
+.dropleft .dropdown-toggle:before, .dropright .dropdown-toggle:before, .dropup .dropdown-toggle:after, .dropdown-toggle:after{
+    margin-top: -8px !important;
+}
+
+/*TABLA DE EDICICIÓN (HIJOS)*/
+
+.hijos-listar {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 0.78rem;
+    text-align: left;
+}
+
+.hijos-listar thead th {
+    background-color: #53a98788;
+    padding: 10px;
+    border-bottom: 2px solid #065043;
+}
+
+.hijos-listar tbody tr {
+    border-bottom: 1px solid #065043;
+    background-color: rgba(255, 255, 255, 0.541);
+}
+
+.hijos-listar tbody td {
+    padding: 10px;
+}
+
+.actions {
+    display: flex;
+    gap: 1rem;
+}
+
+.edit, .delete, .add {
+    background-color: transparent;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    font-size: .8rem;
+    font-family: inherit;
+    cursor: pointer; 
+}
+
+.delete {
+    color: #a12a0c;
+}
+
+.edit {
+    color: #065043;
+}
+
+.add{
+    color: #065043;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+.delete:hover, .edit:hover {
+    text-decoration: underline;
+    color: #d63131fd;
+}
+.edit:hover {
+    text-decoration: underline;
+    color: #10aa60fd;
+}
+.add:hover {
+    text-decoration: underline;
+    color: #e8d152;
+}
+
+
+@media (max-width: 600px) {
+    .hijos-listar thead {
+        display: none; 
+    }
+
+    .hijos-listar, 
+    .hijos-listar tbody, 
+    .hijos-listar tr, 
+    .hijos-listar td {
+        display: block; 
+        width: 100%; 
+    }
+
+    .hijos-listar tr {
+        margin-bottom: 15px; 
+    }
+
+    .hijos-listar td {
+        text-align: left; 
+        position: relative; 
+        padding-left: 50%; 
+    }
+
+    .hijos-listar td::before {
+        content: attr(data-label); 
+        position: absolute;
+        left: 10px;
+        text-align: left;
+    }
+}
+

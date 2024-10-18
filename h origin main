@@ -1,0 +1,199 @@
+[33mcommit 9f640594f3030d93f3dede737c34813bd084ac24[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: luzdary08 <canalesloyolamariana@gmail.com>
+Date:   Tue Sep 10 11:10:07 2024 -0500
+
+    Creación de selects y mejora visual
+
+[33mcommit d1a43057af38983a1ab0a12aaa821429b266f981[m
+Author: luzdary08 <canalesloyolamariana@gmail.com>
+Date:   Tue Sep 10 03:20:04 2024 -0500
+
+    Creación de selects en "Agregar Miembro"
+
+[33mcommit fb88c53a025c2c54b4e147974f912d32f405c8b4[m
+Author: luzdary08 <canalesloyolamariana@gmail.com>
+Date:   Sat Sep 7 13:27:08 2024 -0500
+
+    Mejora visual
+    
+    se agregó estilos al apartado de "Agregar miembros"
+
+[33mcommit 09881b9f7377fd211c7b615a06b891113fb1ee76[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Sep 5 21:25:56 2024 -0500
+
+    funcionando DropdownMultiselect
+    
+    funcionando DropdownMultiselect
+
+[33mcommit ad89c54ffae5519f6d79db5f017c7ccc8287c81d[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Sep 5 21:08:25 2024 -0500
+
+    utilizar formulario
+    
+    utilizar formulario
+
+[33mcommit e2ee69be090d03d6129ff23f83df1d59c28358b6[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Wed Sep 4 20:06:59 2024 -0500
+
+    actualizacion de miembros add
+    
+    actualizacion de miembros add
+
+[33mcommit 5c0e313ff31af2362de1a072c87711a3eda30b32[m
+Author: luzdary08 <canalesloyolamariana@gmail.com>
+Date:   Wed Sep 4 19:41:37 2024 -0500
+
+    Actualización de add-usuarios
+    
+    Se agregó un formulario y multiselect
+
+[33mcommit 6efe195f666132d0b0a08ff4bfb9211bab07edb6[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Tue Sep 3 18:44:13 2024 -0500
+
+    actualización de views
+    
+    actualización de views
+
+[33mcommit d81a8fff3225fd7aef776da0db3ad81be21d76b7[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 20:29:33 2024 -0500
+
+    Auth services con ruta predefinida
+    
+    Auth services con ruta predefinida
+
+[33mcommit 08ef17f00481d6164b073411b29eb137b47d97b3[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:52:51 2024 -0500
+
+    mejora del dashboard
+    
+    mejora del dashboard
+
+[33mcommit 2afeda6dd2c8b8a64717f75d00ef05df02be7ab1[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:42:58 2024 -0500
+
+    Puertos
+    
+    Puertos
+
+[33mcommit bb3a9a73a9cfdc994e79c7967564173372cf250f[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:34:37 2024 -0500
+
+    Carga de Archivos
+    
+    Carga de solo archivos importantes
+
+[33mcommit 93ccf258919c953abf548806d05d1f2704b0e155[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:25:18 2024 -0500
+
+    instalar vite
+    
+    instalar vite
+
+[33mcommit 00834f47c2006d137636ae51796d9153d850447d[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:22:49 2024 -0500
+
+    mejorar el json
+    
+    mejorar el json
+
+[33mcommit bca5086ba19e82f4ec9403acaee1b749cf41b173[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:21:08 2024 -0500
+
+    instalar vite
+    
+    instalar vite
+
+[33mcommit 8fe9a53e32011622553999ba0ecd1adf10d4608a[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:17:28 2024 -0500
+
+    actualizar main
+    
+    actualizar main
+
+[33mcommit 35a09d271e53885225f549c6ef4799afd81d2b1e[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 14:15:38 2024 -0500
+
+    agregando el npm start
+    
+    agregando el npm start
+
+[33mcommit 75ab8c0c6a0cd50d622c54bee9acdceaac5d1738[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 12:26:40 2024 -0500
+
+    actualizar cors
+    
+    Acepta los 5173
+
+[33mcommit 3763c3b5d1263ddf4ad9cbcaa50fa1b14d22611a[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 12:18:30 2024 -0500
+
+    http
+    
+    consultas solo con http
+
+[33mcommit e6a55a26feac3e14e4cac9a449855bc52c8a379c[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Thu Aug 29 12:14:05 2024 -0500
+
+    ruta heroku
+    
+    actualizar ruta de heroku
+
+[33mcommit 493d713d8312fa3a22c58c2a4baf71b64e2198a6[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Mon Aug 26 22:40:38 2024 -0500
+
+    ejemplo react
+    
+    ejemplo react
+
+[33mcommit d704546a821410318fff0e0b33689b8ea6d36231[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Mon Aug 26 21:10:36 2024 -0500
+
+    Update README.md
+
+[33mcommit c578a8ab0a749ae1c8108d841d1bd0a9414a72e4[m
+Author: Elvis Alcántara Pinedo <aelvis@users.noreply.github.com>
+Date:   Mon Aug 26 20:52:46 2024 -0500
+
+    Actualizacion de Login
+    
+    Update
+
+[33mcommit 79cddf37814ce1be39434b284020416d88a0050e[m
+Author: elvis <104847165+ContactElvis@users.noreply.github.com>
+Date:   Mon Aug 26 20:02:49 2024 -0500
+
+    update vistas
+    
+    carga de vistas
+
+[33mcommit b8a62314c870d16e7b4369ad1686d461a58f0de5[m
+Author: elvis <elvis_peke@hotmail.com>
+Date:   Sun Aug 18 23:41:55 2024 -0500
+
+    sistema front
+    
+    sistema front
+
+[33mcommit 3c108d9f0f873f2feca7e4d4c75eb3d1d9f1b661[m
+Author: elvis <elvis_peke@hotmail.com>
+Date:   Sun Aug 18 23:38:38 2024 -0500
+
+    Initial commit
