@@ -1,5 +1,7 @@
 import z from "zod"
 
+
+
 export const User = z.object({
     form_nombres:z
     .string().min(1,{message:'Ingrese un nombre'}).regex(/^[a-zA-Z\s]+$/,{message:'Ingrese un nombre válido'}),
